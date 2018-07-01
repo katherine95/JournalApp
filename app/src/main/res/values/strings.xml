@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
